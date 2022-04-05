@@ -53,7 +53,7 @@ const sum3 = (num1, num2) => {
 console.log(sum3(8, 8));
 */
 
-//functiont to reverse a number
+//5. functiont to reverse a number
 
 /*
 let i = 34567;
